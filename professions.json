@@ -1,0 +1,22 @@
+{
+  "categories": [
+    "scientist", "sports", "soccer", "football", "celebrities people", "nobel prize winners people",
+    "musicians", "actors", "actor", "president", "schauspielerin", "schauspieler",
+    "philosopher", "author", "poet", "director", "producer", "comedian", "model", "entrepreneur",
+    "inventor", "business magnate", "architect", "teacher", "journalist", "chef", "dancer", "photographer",
+    "author", "humanitarian", "activist", "royalty", "politician", "economist", "historian",
+    "psychologist", "lawyer", "doctor", "nurse", "engineer", "mathematician", "architect",
+    "filmmaker", "painter", "sculptor", "designer", "fashion designer", "billionaire",
+    "philanthropist", "environmentalist", "astronaut", "astronomer", "biologist", "geologist",
+    "ecologist", "mathematician", "cartographer", "scientific researcher", "cryptographer",
+    "linguist", "sociologist", "theologian", "neurologist", "oncologist", "orthopedic surgeon",
+    "choreographer", "voice actor", "veterinarian", "pilot", "fisherman", "taxidermist", "beekeeper",
+    "librarian", "social worker", "public relations specialist", "IT specialist", "web developer",
+    "data scientist", "cryptocurrency expert", "youtuber", "streamer", "vlogger", "blogger", "podcaster",
+    "fitness trainer", "lifeguard", "paralegal", "geographer", "pharmacist", "toxicologist",
+    "nutritionist", "dietitian", "emergency medical technician", "firefighter", "paramedic",
+    "police officer", "detective", "soldier", "military leader", "navy officer", "air force officer",
+    "judge", "mayor", "senator", "governor", "ambassador", "diplomat", "environmental scientist",
+    "climate scientist"
+  ]
+}
